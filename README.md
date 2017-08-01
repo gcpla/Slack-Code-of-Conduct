@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-The purpose of the GCPLA Slack Group <gcpla.slack.com> is to create a virtual community where members of the GCPLA users group can engage and interact with each other.
+The purpose of the GCPLA Slack Group <https://gcpla.slack.com> is to create a virtual community where members of the GCPLA users group can engage with each other.
 
 Ultimately, we want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 
